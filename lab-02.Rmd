@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Joel Barron, Ben Stenton, Bhavishy Puddar, Ragul Dinesh, Zaki Mulube"
+author: "Team Name: Joel Barron, Ben Stenton, Bhavishy Puddar, Ragul Dinesh, Zaki Mulube, Taras Harasym"
 date: "`r Sys.Date()`"
 output: html_document
 ---
